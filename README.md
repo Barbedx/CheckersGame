@@ -1,2 +1,2 @@
 # CheckersGame
- c sharp checkers
+С# checkers game with Momento pattern
